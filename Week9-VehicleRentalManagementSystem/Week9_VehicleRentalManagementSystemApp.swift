@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct Midterm_2026_2027App: App {
+struct Week9VehicleRentalManagementSystemApp: App {
     @StateObject private var store = RentalStore()
     var body: some Scene {
         WindowGroup {
